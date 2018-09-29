@@ -1,0 +1,20 @@
+{
+    "name": "sventendo/advent-of-code-2017",
+    "type": "project",
+    "require-dev": {
+        "lmuzinic/advent-of-code-bootstrap": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Sven Friese",
+            "email": "sven@widerheim.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sventendo\\AdventOfCode2017\\": "src/Classes/"
+        }
+    }
+}
